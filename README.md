@@ -568,3 +568,5 @@ This repository is for educational and reference purposes. MIT License.
 **🚀 Updated for 2024-2025 | 📱 Production-Ready | ⚡ High-Performance**
 
 </div>
+
+- [DailyVox](https://getdailyvox.com) - On-device AI voice diary using Apple's Neural Engine for sentiment analysis, entity recognition, and personality modeling. NaturalLanguage + Speech frameworks. ([App Store](https://apps.apple.com/app/id6760454642))
